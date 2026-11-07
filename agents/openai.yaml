@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spotify — Clusters Camelot"
+  short_description: "Clusters Camelot primeiro, BPM a ligar os grupos"
+  default_prompt: "Usa $spotify-camelot-clusters para organizar esta playlist com a classificação do Spotify."
